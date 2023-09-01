@@ -1,0 +1,10 @@
+   Trocar de lâmpada
+1-Vou até loja de material de contrução 
+2-Compro lampâda nova
+3-Vou para casa
+4-Pego a escada no porão
+5-subo na escada
+6-Troco a lampâda
+7-Desço da escada
+8-Descarto a lampâda de modo correto
+9-fecho a escada e guardo-a novamente
